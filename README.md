@@ -4,5 +4,3 @@ The aim of this project is to develop a Pashto Optical Character Recognition (PO
 ![Screenshot_20201006-175011_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375181-3b8f33fd-8606-4b08-8b0d-0c5797e6c46e.jpg)
 ![Screenshot_20201006-175015_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375185-addf9203-03f1-456a-bc09-59de8d9df244.jpg)
 ![Screenshot_20201006-175031_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375187-43d7fe03-82f3-493b-97fb-b3479b12eaed.jpg)
-![Screenshot_20201006-175043_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375188-50e925b9-c644-420f-a46a-ff0a9137f222.jpg)
-![Screenshot_20201006-175004_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375483-9200a27e-3211-4f20-a4cf-f4f839b15218.jpg)
