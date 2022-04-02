@@ -1,2 +1,8 @@
 # pashto image to text 
 The aim of this project is to develop a Pashto Optical Character Recognition (POCR) for Android based mobile devices. Scanned text documents, pictures stored in mobile phones having Android as operating system, and pictures taken by any Android device are the mainly focus of this application. The purpose of this application is to recognize text in scanned text documents, text images, and any picture taken by an Android based device in order to reuse it later. This application will allow its users to perform many actions in few minutes, such as copy text from these mentioned documents and modify it, instead of wasting time on retyping it. Our project is a research-based project.
+![Screenshot_20201006-175004_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375177-b368fcab-ba8f-4f32-9929-0435a3d84902.jpg)
+![Screenshot_20201006-175011_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375181-3b8f33fd-8606-4b08-8b0d-0c5797e6c46e.jpg)
+![Screenshot_20201006-175015_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375185-addf9203-03f1-456a-bc09-59de8d9df244.jpg)
+![Screenshot_20201006-175031_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375187-43d7fe03-82f3-493b-97fb-b3479b12eaed.jpg)
+![Screenshot_20201006-175043_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375188-50e925b9-c644-420f-a46a-ff0a9137f222.jpg)
+![Screenshot_20201006-175004_Pashto Image To Text](https://user-images.githubusercontent.com/64591500/161375483-9200a27e-3211-4f20-a4cf-f4f839b15218.jpg)
